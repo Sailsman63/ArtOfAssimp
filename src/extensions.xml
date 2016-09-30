@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="yes"?>
+<extension name="ArtOfAssimp" version="0.1a">
+  <author>Lucas Stanek (Sailsman63)</author>
+  <description>A bridge between Art of Illusion and the assimp asset
+    importer/exporter package. First alpha version, does not work yet.
+  </description>
+  <plugin class="sailsman63.artofassimp.AssimpTranslator" />
+</extension>
